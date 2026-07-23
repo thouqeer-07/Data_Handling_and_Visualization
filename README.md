@@ -4,10 +4,17 @@
 
   **A structured repository for practical data wrangling, exploratory data analysis, and advanced statistical visualizations.**
 
+  <sub>Developed & Maintained by</sub><br>
+  ### 👤 [SYED THOUQEER AHMED A](https://github.com/thouqeer-07)
+
+  <br>
+
   [![R Version](https://img.shields.io/badge/R-%3E%3D%204.0.0-blue.svg?logo=R&logoColor=white)](https://www.r-project.org/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
   [![Course Ref](https://img.shields.io/badge/Course-DSA06-orange.svg)](#-experiments-index)
+
+  <br>
 
   [Features](#-key-features) •
   [Gallery](#-visual-gallery) •
@@ -16,6 +23,8 @@
   [Packages Used](#-core-r-packages)
 
 </div>
+
+---
 
 ---
 
